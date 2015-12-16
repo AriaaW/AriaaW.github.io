@@ -5,7 +5,14 @@ GENERAL
 
 /**********************************
 NAVIGATION 
+
 ***********************************/
+ .nav-pills{
+    background-color:black;
+    color:#FFE144;
+    
+    
+}
 
 
 
@@ -95,6 +102,7 @@ footer{
 .jumbotron{
   background: url('http://p1.pichost.me/i/40/1640276.jpg') no-repeat center;
   background-size: cover;
+  
 }
 
 .portrait_name{
