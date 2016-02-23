@@ -24,8 +24,8 @@ HEADER
     margin-bottom:10px;
     height:500px;
     padding-top:50px;
-    background-color:#B73561;
-    
+    background:url('http://i1190.photobucket.com/albums/z442/Tamrioda/IMG_2006_zpsu5xdhxi0.jpg') no-repeat center; 
+    background-size:cover;
 }
 
 .portrait_name{

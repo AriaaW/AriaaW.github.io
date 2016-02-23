@@ -6,9 +6,15 @@
 
 body {
     padding-top: 70px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
-    background-color:black;
+    background-color:pink;
     
-    
+   /*
+   Color Schemes
+   Color 1:B73561
+Color 1:BF5468
+Color 1:BF6F6F
+Color 1:BFA584
+Color 1:BBBF99
 }
 
 footer {
